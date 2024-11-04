@@ -6,7 +6,12 @@ body{
    margin-bottom: 100px;
 }
 
-
+    header{
+        border-bottom: solid 3px wheat;
+        padding: 20px;
+        font-size: 32px;
+        color: aqua(148, 186, 94);
+    }
 .chamada{
 background-color: black;
 margin-top: 80px;
