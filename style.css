@@ -1,21 +1,22 @@
-body{
-   color: aquamarine;
-   background-color: black;
-   margin: 0px;
+body {
+    color: aquamarine;
+    background-color: black;
+    margin: 0px;
     font-family: "Bona Nova SC", serif;
-   margin-bottom: 100px;
+    margin-bottom: 100px;
 }
 
-    header{
-        border-bottom: solid 3px wheat;
-        padding: 20px;
-        font-size: 32px;
-        color: aqua(148, 186, 94);
-    }
-.chamada{
-background-color: black;
-margin-top: 80px;
-margin-bottom: 80px
-display: flex;
-justify-content: center;
+header {
+    border-bottom: solid 3px wheat;
+    padding: 20px;
+    font-size: 32px;
+    color: aqua(148, 186, 94);
+}
+
+.chamada {
+    background-color: black;
+    margin-top: 80px;
+    margin-bottom: 80px ;
+    display: flex;
+    justify-content: center;
 }
